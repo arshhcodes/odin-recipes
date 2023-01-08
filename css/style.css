@@ -1,0 +1,28 @@
+*{
+    background-color: darkgray;
+    color:white;
+
+}
+.h1-class{
+    font-size: 45px;
+    text-align: center;
+}
+
+.f1{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 18px;
+    font-weight:bold;
+    
+}
+.img-class{
+    height: auto;
+    width: fit-content;
+}
+h3{
+    font-size: 30px;
+    font-style: italic;
+}
+
+li,p{
+    font-size: 20px;
+}
